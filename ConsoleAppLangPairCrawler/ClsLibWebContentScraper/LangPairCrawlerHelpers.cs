@@ -9,7 +9,7 @@
         {
             if(langId == 1)
             {
-                return sa.Substring(2).Replace("e&#39;", ","); // filter out "'" as it appears in "I'll"
+                return sa.Substring(2).Replace("&#39;", ","); // filter out "'" as it appears in "I'll"
             }
 
             return sa.Substring(2);
