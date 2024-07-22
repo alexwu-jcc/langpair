@@ -24,6 +24,7 @@
   <ItemGroup>
     <Folder Include="logs\" />
     <Folder Include="output\07-22\" />
+    <Folder Include="utils\" />
   </ItemGroup>
 
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClsLibWebContentScraper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e15949efbe1e0af7a9f1a941278ca62a29d2fdfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62cc824695ca9e3dcd4dbd550b951178d97ae4ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClsLibWebContentScraper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClsLibWebContentScraper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

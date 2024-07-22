@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FtpFileDiscovery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40364725212ba525b7238410fa2da70b7e9463dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62cc824695ca9e3dcd4dbd550b951178d97ae4ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("FtpFileDiscovery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FtpFileDiscovery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

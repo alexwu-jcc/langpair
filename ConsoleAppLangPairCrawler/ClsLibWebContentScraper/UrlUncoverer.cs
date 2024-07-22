@@ -10,6 +10,7 @@ using System.Linq;
 using System.Security.Policy;
 using ClsLibWebContentScraper;
 using System.ComponentModel.Design;
+using System.Diagnostics;
 
 namespace ClsLibWebContentScraper
 {
@@ -70,7 +71,7 @@ namespace ClsLibWebContentScraper
             }
             else
             {
-                Console.WriteLine("No matching nodes found.");
+                Debug.WriteLine("No matching nodes found.");
             }
 
             return;

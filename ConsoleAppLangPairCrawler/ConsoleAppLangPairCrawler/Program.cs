@@ -1,7 +1,7 @@
 ﻿using ClsLibWebContentScraper;
 using ConsoleAppLangPairCrawler;
 using log4net;
-using ConsoleAppLangPairCrawler.utils;
+using ClsLibWebContentScraper.utils;
 
 
 namespace LangPairCrawlerApp
@@ -11,7 +11,7 @@ namespace LangPairCrawlerApp
         private static readonly ILog log = LogManager.GetLogger(typeof(Program));
         static async Task Main(string[] args)
         {
-            //await uncoverRelatedUrls();
+           //await uncoverRelatUrls();
             await runCrawler();
 
         }

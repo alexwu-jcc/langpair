@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\langpaircrawlerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\langpaircrawlerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\output\\07-22\\parsed_07-22-14-00-17_e.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\output\\07-22\\parsed_07-22-14-00-17_e.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\langpaircrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\langpaircrawler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\utils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\utils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\jobpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\jobpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\clslibwebcontentscraper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\clslibwebcontentscraper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\utils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\utils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\utils\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\utils\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\urluncoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\urluncoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\consoleapplangpaircrawler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\consoleapplangpaircrawler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\langpaircrawlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\langpaircrawlerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\op\\pagelinksdetected.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\op\\pagelinksdetected.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\clslibwebcontentscraper\\iurluncoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92E30212-F96E-46D6-8152-1A4DC7318A22}|ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj|solutionrelative:clslibwebcontentscraper\\iurluncoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|c:\\users\\awu\\repos\\langpair_cnt\\langpair\\consoleapplangpaircrawler\\consoleapplangpaircrawler\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{51122802-4BCA-4642-8F5C-804320077CBB}|ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj|solutionrelative:consoleapplangpaircrawler\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,106 +46,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LangPairCrawlerHelpers.cs",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\LangPairCrawlerHelpers.cs",
-              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\LangPairCrawlerHelpers.cs",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\LangPairCrawlerHelpers.cs",
-              "RelativeToolTip": "ClsLibWebContentScraper\\LangPairCrawlerHelpers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T21:03:19.523Z",
+              "DocumentIndex": 3,
+              "Title": "ClsLibWebContentScraper",
+              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj",
+              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj",
+              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj",
+              "RelativeToolTip": "ClsLibWebContentScraper\\ClsLibWebContentScraper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T21:53:12.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "parsed_07-22-14-00-17_e.txt",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\output\\07-22\\parsed_07-22-14-00-17_e.txt",
-              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\output\\07-22\\parsed_07-22-14-00-17_e.txt",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\output\\07-22\\parsed_07-22-14-00-17_e.txt",
-              "RelativeToolTip": "ConsoleAppLangPairCrawler\\output\\07-22\\parsed_07-22-14-00-17_e.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-22T21:02:30.599Z",
+              "Title": "CommonUtils.cs",
+              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\utils\\CommonUtils.cs",
+              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\utils\\CommonUtils.cs",
+              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\utils\\CommonUtils.cs",
+              "RelativeToolTip": "ClsLibWebContentScraper\\utils\\CommonUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:53:06.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\ConfigManager.cs",
+              "RelativeToolTip": "ConsoleAppLangPairCrawler\\ConfigManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:51:23.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LangPairCrawler.cs",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\LangPairCrawler.cs",
-              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\LangPairCrawler.cs",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\LangPairCrawler.cs",
-              "RelativeToolTip": "ClsLibWebContentScraper\\LangPairCrawler.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGMAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T19:16:16.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JobPayload.cs",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\JobPayload.cs",
-              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\JobPayload.cs",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\JobPayload.cs",
-              "RelativeToolTip": "ClsLibWebContentScraper\\JobPayload.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:42:05.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CommonUtils.cs",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\utils\\CommonUtils.cs",
-              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\utils\\CommonUtils.cs",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\utils\\CommonUtils.cs",
-              "RelativeToolTip": "ConsoleAppLangPairCrawler\\utils\\CommonUtils.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:24:41.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConsoleAppLangPairCrawler.csproj",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj",
-              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj",
-              "RelativeToolTip": "ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-22T16:24:11.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\Program.cs",
               "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\Program.cs",
               "RelativeToolTip": "ConsoleAppLangPairCrawler\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAqwC4AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T16:16:02.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "pageLinksDetected.txt",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
-              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
-              "RelativeToolTip": "ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-20T02:58:36.609Z"
+              "WhenOpened": "2024-07-22T21:37:00.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -163,33 +108,62 @@
               "RelativeDocumentMoniker": "ClsLibWebContentScraper\\UrlUncoverer.cs",
               "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\UrlUncoverer.cs",
               "RelativeToolTip": "ClsLibWebContentScraper\\UrlUncoverer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T02:57:26.27Z"
+              "WhenOpened": "2024-07-22T21:42:37.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUrlUncoverer.cs",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\IUrlUncoverer.cs",
-              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\IUrlUncoverer.cs",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\IUrlUncoverer.cs",
-              "RelativeToolTip": "ClsLibWebContentScraper\\IUrlUncoverer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAgAAAA",
+              "DocumentIndex": 0,
+              "Title": "LangPairCrawler.cs",
+              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\LangPairCrawler.cs",
+              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\LangPairCrawler.cs",
+              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\LangPairCrawler.cs",
+              "RelativeToolTip": "ClsLibWebContentScraper\\LangPairCrawler.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T02:49:17.95Z"
+              "WhenOpened": "2024-07-22T21:38:23.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "app.config",
-              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\app.config",
-              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\app.config",
-              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\app.config",
-              "RelativeToolTip": "ConsoleAppLangPairCrawler\\app.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-20T02:43:44.466Z"
+              "DocumentIndex": 7,
+              "Title": "LangPairCrawlerException.cs",
+              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\LangPairCrawlerException.cs",
+              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\LangPairCrawlerException.cs",
+              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\LangPairCrawlerException.cs",
+              "RelativeToolTip": "ConsoleAppLangPairCrawler\\LangPairCrawlerException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:51:24.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\utils\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "ClsLibWebContentScraper\\utils\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ClsLibWebContentScraper\\utils\\ConfigManager.cs",
+              "RelativeToolTip": "ClsLibWebContentScraper\\utils\\ConfigManager.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T21:56:01.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pageLinksDetected.txt",
+              "DocumentMoniker": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
+              "RelativeDocumentMoniker": "ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
+              "ToolTip": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
+              "RelativeToolTip": "ConsoleAppLangPairCrawler\\op\\pageLinksDetected.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-22T21:42:01.434Z",
+              "EditorCaption": ""
             }
           ]
         }

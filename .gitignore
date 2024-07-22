@@ -174,3 +174,7 @@ cython_debug/
 *.dll
 *.pdb
 
+
+*.log
+
+

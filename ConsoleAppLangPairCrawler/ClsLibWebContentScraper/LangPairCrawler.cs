@@ -7,6 +7,7 @@ using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using ClsLibWebContentScraper.utils;
 
 namespace ClsLibWebContentScraper
 { 
@@ -25,6 +26,8 @@ namespace ClsLibWebContentScraper
         {
             outputFolder = Path.Combine(outputFolder, DateTime.Now.ToString("MM-dd"));
 
+            CommonUtils.cleanUpFolder(outputFolder);
+
             string currentDirectory = Directory.GetCurrentDirectory();
             int backWardCount = 3;
             while(backWardCount > 0)
@@ -39,10 +42,7 @@ namespace ClsLibWebContentScraper
 
         public async Task CrawlAndSaveHelper(string url)
         {
-
             HttpClient client = new HttpClient();
-                       
-
             var response = await client.GetStringAsync(url);
             HtmlDocument doc = new HtmlDocument();
             doc.LoadHtml(response);
