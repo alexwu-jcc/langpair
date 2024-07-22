@@ -167,5 +167,10 @@ cython_debug/
 
 /*/output/*
 
+*.vsidx
 
+*.cache
+
+*.dll
+*.pdb
 

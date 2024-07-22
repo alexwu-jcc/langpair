@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppLangPairCrawler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40364725212ba525b7238410fa2da70b7e9463dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e15949efbe1e0af7a9f1a941278ca62a29d2fdfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppLangPairCrawler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppLangPairCrawler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

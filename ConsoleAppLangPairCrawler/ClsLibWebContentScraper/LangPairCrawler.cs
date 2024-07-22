@@ -97,8 +97,8 @@ namespace ClsLibWebContentScraper
 
                     for (int i = 0; i < numLines; i++)
                     {
-                        string stren = LangPairCrawlerHelpers.Treat(linesEn[i]);
-                        string stres = LangPairCrawlerHelpers.Treat(linesEs[i]);
+                        string stren = LangPairCrawlerHelpers.Treat(linesEn[i], 1);
+                        string stres = LangPairCrawlerHelpers.Treat(linesEs[i], 2);
                         if (stren != stres && stren.Split(' ').Length > 1)
                         {
                             alldata.Add((stren, stres));
