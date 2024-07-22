@@ -1,0 +1,12 @@
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ClsLibWebContentScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ClsLibWebContentScraper.AssemblyInfoInputs.cache
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ClsLibWebContentScraper.AssemblyInfo.cs
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ClsLibWebContentScraper.csproj.CoreCompileInputs.cache
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ClsLibWebContentScraper.csproj.AssemblyReference.cache
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\bin\Debug\net8.0\ClsLibWebContentScraper.deps.json
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\bin\Debug\net8.0\ClsLibWebContentScraper.dll
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\bin\Debug\net8.0\ClsLibWebContentScraper.pdb
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ClsLibWebContentScraper.dll
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\refint\ClsLibWebContentScraper.dll
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ClsLibWebContentScraper.pdb
+C:\Users\AWu\source\repos\ConsoleAppLangPairCrawler\ClsLibWebContentScraper\obj\Debug\net8.0\ref\ClsLibWebContentScraper.dll

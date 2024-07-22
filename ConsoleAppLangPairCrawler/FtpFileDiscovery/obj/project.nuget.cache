@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YP7UebSu8HU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AWu\\repos\\langpair_cnt\\langpair\\ConsoleAppLangPairCrawler\\FtpFileDiscovery\\FtpFileDiscovery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AWu\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

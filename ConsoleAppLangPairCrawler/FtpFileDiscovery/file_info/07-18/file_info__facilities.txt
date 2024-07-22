@@ -1,0 +1,3 @@
+Total files: 2, and below files are in the format of offset, size in MB, last update time, last access time, and full file path name.
+1		679321129		2021-09-17 11:57:04		2021-09-17 11:57:04		/facilities/CAFM Vendor Demo-20210826_090910-Meeting Recording Part 1.mp4
+2		683455164		2021-09-17 11:57:12		2021-09-17 11:57:12		/facilities/CAFM Vendor Demo-20210826_130152-Meeting Recording Part 2.mp4
